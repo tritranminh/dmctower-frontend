@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "type": "apartment",
+    "numberOfRoom": 1,
+    "size": "60m2",
+    "imagePreviewUrl": "https://i.ibb.co/9pgfqYt/C-n-h-cao-c-p-Kim-M-1-5.jpg",
+    "imageDetailUrl": [
+      "https://i.ibb.co/9pgfqYt/C-n-h-cao-c-p-Kim-M-1-5.jpg",
+      "https://i.ibb.co/QkLTT2X/C-n-h-cao-c-p-Kim-M-2-5.jpg",
+      "https://i.ibb.co/sVp0C6J/C-n-h-cao-c-p-Kim-M-3-5.jpg",
+      "https://i.ibb.co/g4kHnKD/C-n-h-cao-c-p-Kim-M-5-5.jpg"
+    ],
+    "description": "Căn hộ hiện đại 2 phòng ngủ đầy đủ nội thất Kim Mã",
+    "rawPreview": "Căn hộ hiện đại 2 phòng ngủ đầy đủ nội thất Kim Mã, căn hộ mới, hiên đại, trang bị đầy đủ nội thất, khách chỉ xách vali đến ở, các dịch vụ cung cấp như: internet, truyền hình nhật, dọn dẹp giặt là tuần 5 buổi, bảo vệ 24h, có thang máy. Căn hộ cung cấp đầy đủ các nội thất như bồn cầu tự động, bồn tắm , mặt thoáng ban công nhìn từ tầng cao xuống.\nVị trí: Thuộc Kim Mã ,Ngay gần khách sạn Daeoo, Lotte, metropolis, giao thông thuận tiện đưa đón khách đi làm các khu công nghiệp, nội thành hà nội.\nTiện ích: Nhà hàng, khách sạn, salon, ăn sáng gym, bể bơi, massage cách  100m2.",
+    "alt": "Căn hộ 1 ngủ 60m2"
+  },
+  {
+    "id": 2,
+    "type": "apartment",
+    "numberOfRoom": 1,
+    "size": "66m2",
+    "imagePreviewUrl": "https://i.ibb.co/WpJ7n5F/20160922141152.jpg",
+    "imageDetailUrl": [
+      "https://i.imgur.com/IJXlhme.jpg",
+      "https://i.imgur.com/SVAMKwK.jpg",
+      "https://i.imgur.com/pHRCkll.jpg",
+      "https://i.imgur.com/3jhm0Ul.jpg",
+      "https://i.imgur.com/5guPIAk.jpg"
+    ],
+    "description": "Linh Lang, Ba Dinh serviced apartment for rent for foreigner with balcony",
+    "rawPreview": "Cho thuê căn hộ dịch vụ 2 ngủ tại Đội Cấn, Kim Mã giá thuê từ 500usd/tháng full nội thất mới, dịch vụ. Internet, truyền hình, dọn dẹp (giặt là), bảo vệ 24h.\nTòa nhà cao tầng nằm tại vị trí trung tâm thành phố kim mã, đội cấn, khu vực nhiều người nước ngoài sinh sống , an ninh tốt, văn minh , nhiều dịch vụ đặc biệt cho người nhật : nhà hàng, massagage, salon, loung nhật.",
+    "alt": "Căn hộ dịch vụ 2 ngủ Đội Cấn"
+  },
+  {
+    "id": 3,
+    "type": "apartment",
+    "numberOfRoom": 2,
+    "size": "75m2",
+    "imagePreviewUrl": "https://i.imgur.com/XveDg1I.jpg",
+    "imageDetailUrl": [
+      "https://i.imgur.com/3pNZdix.jpg",
+      "https://i.imgur.com/Mf2qypv.jpg",
+      "https://i.imgur.com/OdLqDPM.jpg",
+      "https://i.imgur.com/T6ZAWaJ.jpg",
+      "https://i.imgur.com/MEDaXNg.jpg",
+      "https://i.imgur.com/0EpM0UV.jpg",
+      "https://i.imgur.com/w8SdgZw.jpg",
+      "https://i.imgur.com/IoXAHfG.jpg"
+    ],
+    "description": "Linh Lang, Ba Dinh serviced apartment for rent for foreigner with balcony",
+    "rawPreview": "With an area of 55Sqm, the apartment is divided into a separate bedroom with a living room and modern kitchen, the bathroom is equipped with a water heater and a large bath. Located in a building with 24-hour security, lift.\nApartments are fully furnished with modern furniture tenants do not have to bring anything to stay.\nLocated near many restaurants for Japanese people, cafes, banks, supermarkets, near Deawoo Hanoi, Lotte Dao Tan is located in ba Dinh district.",
+    "alt": "Căn hộ 2 ngủ 75m2"
+  },
+  {
+    "type": "office"
+  }
+]

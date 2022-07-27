@@ -1,0 +1,11 @@
+.preview-carousel {
+  width: 100vw;
+  height: 30rem;
+
+  .image-carousel {
+    width: 100vw;
+    height: 30rem;
+    background-size: 100% 100%;
+    object-fit: cover;
+  }
+}

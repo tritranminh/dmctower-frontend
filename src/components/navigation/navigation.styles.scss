@@ -1,0 +1,30 @@
+.nav-home {
+  font-size: 2.5rem;
+  background: #3f3f46;
+  height: 6rem;
+  font-weight: 300;
+
+  .nav-list {
+    height: 6rem;
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    margin-bottom: 2.5rem;
+  }
+
+  .options {
+    display: flex;
+    justify-content: space-between;
+
+    .option {
+      padding: 1rem 2rem;
+      display: inline-block;
+      color: white;
+    }
+
+    .option:hover,
+    .option:active {
+      background-color: #dc2626;
+    }
+  }
+}
