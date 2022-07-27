@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/dmctower-frontend/static/css/main.910b7d41.css",
+    "main.css": "/dmctower-frontend/static/css/main.180fc13b.css",
     "main.js": "/dmctower-frontend/static/js/main.f5ef4bbd.js",
     "static/js/787.5ac75478.chunk.js": "/dmctower-frontend/static/js/787.5ac75478.chunk.js",
     "index.html": "/dmctower-frontend/index.html",
-    "main.910b7d41.css.map": "/dmctower-frontend/static/css/main.910b7d41.css.map",
+    "main.180fc13b.css.map": "/dmctower-frontend/static/css/main.180fc13b.css.map",
     "main.f5ef4bbd.js.map": "/dmctower-frontend/static/js/main.f5ef4bbd.js.map",
     "787.5ac75478.chunk.js.map": "/dmctower-frontend/static/js/787.5ac75478.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.910b7d41.css",
+    "static/css/main.180fc13b.css",
     "static/js/main.f5ef4bbd.js"
   ]
 }
